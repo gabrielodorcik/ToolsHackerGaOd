@@ -1,2 +1,3 @@
 # ToolsHackerGaOd
-This repository was created with objective of to receive my hacker tools. I'll update always that I develop a tool or look like thing. 
+This repository was created with the aim of receiving my hacker tools. I will update whenever I develop a tool or something similar.
+It is exclusive to my studies, please don't use it for bad things. Take care. 
